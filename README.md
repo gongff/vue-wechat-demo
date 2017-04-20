@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# my-project
+
+# vue-wechat-demo
+基于vue.js的微信小demo
 
 > a test vue project
 
@@ -19,8 +20,4 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# vue-wechat-demo
-基于vue.js的微信小demo
->>>>>>> 973876f7406c9554cf916819b27351d9b9428c10
+
