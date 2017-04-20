@@ -1,0 +1,81 @@
+{"contacts":[
+    {
+      "userId":"lubanqihao",
+      "nickname": "鲁班七号",
+      "initial":"l",
+      "sex":1,
+      "area":"王者峡谷",
+      "signature": "正在思考，如何攻克地心引力",
+      "avatar":"http://img.newyx.net/tujian/201701/07/933b425b7a.jpg",
+      "album":["http://pic1.win4000.com/wallpaper/4/57cfaa657b9c1.jpg","http://pic1.win4000.com/wallpaper/4/57cfaa67250e2.jpg","http://pic1.win4000.com/wallpaper/4/57cfaa6998171.jpg"],
+      "background":"http://pic1.win4000.com/wallpaper/4/57cfaa657b9c1.jpg"
+    },
+    {
+      "userId":"zhangliang",
+      "nickname": "张良",
+      "initial":"z",
+      "sex":1,
+      "area":"王者峡谷",
+      "signature": "伤心不是哭的理由，傻才是",
+      "avatar":"http://img.newyx.net/tujian/201701/03/79cbfe6e0a.jpg",
+      "album":["http://pic1.win4000.com/wallpaper/1/57cfb2dcaf85c.jpg","http://pic1.win4000.com/wallpaper/1/57cfb2e136d5b.jpg"],
+      "background":"http://pic1.win4000.com/wallpaper/1/57cfb2e136d5b.jpg"
+    },
+    {
+      "userId":"houyi",
+      "nickname": "后裔",
+      "initial":"h",
+      "sex":1,
+      "area":"王者峡谷",
+      "signature": "发光的，一个就够了",
+      "avatar":"http://img.newyx.net/tujian/201701/07/09f120019e.jpg",
+      "album":[],
+      "background":"http://pic1.win4000.com/wallpaper/6/57d259568f03f.jpg"
+    },
+    {
+      "userId":"diaochan",
+      "nickname": "貂蝉",
+      "initial":"d",
+      "sex":0,
+      "area":"王者峡谷",
+      "signature": "华丽又漂亮的生存到最后",
+      "avatar":"http://img.newyx.net/tujian/201701/03/75ee2668ae.jpg",
+      "album":[],
+      "background":"http://pic1.win4000.com/wallpaper/e/57cfb65b2b660.jpg"
+    },
+    {
+      "userId":"xiaoqiao",
+      "nickname": "小乔",
+      "initial":"x",
+      "sex":0,
+      "area":"王者峡谷",
+      "signature": "恋爱和战斗都要勇往直前",
+      "avatar":"http://pic1.win4000.com/wallpaper/3/57cfb7f7893dc.jpg",
+      "album":[],
+      "background":"http://pic1.win4000.com/wallpaper/e/57cfb65b2b660.jpg"
+    },
+    {
+      "userId":"chengyaojing",
+      "nickname": "程咬金",
+      "initial":"c",
+      "sex":1,
+      "area":"王者峡谷",
+      "signature": "一个字：干",
+      "avatar":"http://pic1.win4000.com/wallpaper/5/57cfaba46b910.jpg",
+      "album":[],
+      "background":"http://pic1.win4000.com/wallpaper/e/57cfb65b2b660.jpg"
+    },
+    {
+      "userId":"libai",
+      "nickname": "李白",
+      "initial":"l",
+      "sex":1,
+      "area":"王者峡谷",
+      "signature": "哈哈～～～，但愿长醉不复醒",
+      "avatar":"http://pic1.win4000.com/wallpaper/4/57cfb212b55b1.jpg",
+      "album":[],
+      "background":"http://pic1.win4000.com/wallpaper/e/57cfb65b2b660.jpg"
+    }
+    
+  ]
+}
